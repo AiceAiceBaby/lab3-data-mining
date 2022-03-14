@@ -31,7 +31,7 @@ if __name__ == "__main__":
             print("The planet is habitable")
         else:
             print("The planet is NOT habitable")
-        tree.plot_tree(clf)
+        # tree.plot_tree(clf)
 
         print()
         if (input("Predict again?[Y/n]").lower() != "y"):
