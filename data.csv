@@ -1,0 +1,8 @@
+big,near,yes,20
+big,far,yes,170
+small,near,yes,139
+small,far,yes,45
+big,near,no,130
+big,far,no,30
+small,near,no,11
+small,far,no,255
